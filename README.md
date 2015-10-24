@@ -22,6 +22,6 @@ Lab Manual是为了帮助学员step by step的开发蓦然项目，鼓励大家�
 增加蓦然应用icon  
 更新注册原型（增加昵称）  
 
-2015/10/24 Lab Manual更新
-发布1_项目初始化_极客班Android专业_蓦然项目LabManual
-发布2_登录模块_极客班Android专业_蓦然项目LabManual
+2015/10/24 Lab Manual更新  
+发布1 项目初始化 极客班Android专业 蓦然项目LabManual  
+发布2 登录模块 极客班Android专业 蓦然项目LabManual  
