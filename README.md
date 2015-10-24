@@ -1,4 +1,4 @@
-# GeekBand-Android-1502-SampleProject
+﻿# GeekBand-Android-1502-SampleProject
 
 极客班二期Android专业样本项目资源库
 
@@ -21,3 +21,7 @@ Lab Manual是为了帮助学员step by step的开发蓦然项目，鼓励大家�
 2015/10/22 蓦然原型更新下列内容：  
 增加蓦然应用icon  
 更新注册原型（增加昵称）  
+
+2015/10/24 Lab Manual更新
+发布1_项目初始化_极客班Android专业_蓦然项目LabManual
+发布2_登录模块_极客班Android专业_蓦然项目LabManual
